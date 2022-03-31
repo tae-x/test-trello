@@ -1,28 +1,26 @@
 ---
-name: "[bugfix] Bug report"
+name: Bug report
 about: Create a report to help us improve
-title: ''
+title: "[bugfix] "
 labels: ''
 assignees: ''
 
 ---
 
-**버그 내용 (Describe the bug)**
+### 1. 버그 내용 (Describe the bug)
 A clear and concise description of what the bug is.
 
-**재현 방법 (To Reproduce)**
+### 2. 재현 방법 (To Reproduce)
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**상세 내용 (Expected behavior)**
+### 3. 상세 내용 (Expected behavior)
 A clear and concise description of what you expected to happen.
 
-**스크린샷 (Screenshots)**
-If applicable, add screenshots to help explain your problem.
-
+### 4. 제보 환경
 **데스크톱 Desktop (please complete the following information):**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
@@ -34,5 +32,8 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**추가 내용 (Additional context)**
+### 5. 스크린샷 (Screenshots)
+If applicable, add screenshots to help explain your problem.
+
+### 6. 추가 내용 (Additional context)
 Add any other context about the problem here.

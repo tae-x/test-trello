@@ -1,7 +1,7 @@
 ---
-name: "[hotfix] Hotfix request"
+name: Hotfix request
 about: Create a report to help us improve
-title: ''
+title: "[hotfix] "
 labels: ''
 assignees: ''
 
@@ -42,15 +42,16 @@ Add any other context about the problem here.
 
 
 ---
-### (기능 개선인 경우)
-**Is your feature request related to a problem? Please describe.**
+## (기능 개선인 경우)
+
+### 1. 개선할 문제점이 무엇인가요?  Is your feature request related to a problem? Please describe.
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**
+### 2. 구현할 기능을 상세히 적어주세요 Describe the solution you'd like
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
+### 3. 추가적으로 고려할 사항 Describe alternatives you've considered
 A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
+### 4. 자유롭게 서술 Additional context
 Add any other context or screenshots about the feature request here.
